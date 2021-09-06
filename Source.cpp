@@ -17,8 +17,8 @@ int looponconstant1(int n) {
 	int count = 0;
 	for (int i = 0; i < 1; i++) {
 		count++; // # this line executes
-		return (count);
 	}
+	return (count);
 }
 
 int looponconstant4(int n) {
