@@ -74,7 +74,7 @@ int nestedconstant(int n) {
 }
 
 int twonested(int n) {
-	/* demonstrates O(n^^2) behavior
+	/* demonstrates O(n**2) behavior
 	pre:  n is positive integer
 	pot: returns count # iterations*/
 
